@@ -30,6 +30,7 @@ Git
 - Fundamentos de la programación (Telefónica)
 - Algoritmos y estructura de datos (UTN)
 - Frontend: HTML, CSS y JS (Autodidacta)
+- JS Sintáxis y semántica de Lenguajes (UTN)
 - Paradigmas de la programación (UTN)
 - Framework Bootstrap (FreeCodeCamp)
 - Framework Angular (Argentina Programa 4.0)
