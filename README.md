@@ -17,13 +17,16 @@
 
 HTML
 CSS
-JavaScript
+JavaScript (ES6)
 TypeScript
-Tailwind CSS
+Tailwind
 ReactJS
-NextJS
+NextJS (App Router & Page Router)
+Laravel 10 (Blade)
+WordPress
 Git
-
+Framer Motion
+GSAP
 
 # 🗺️ Roadmap
 
