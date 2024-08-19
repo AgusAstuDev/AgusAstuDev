@@ -15,18 +15,20 @@
 
 # 🛠 Skills
 
-HTML
-CSS
-JavaScript (ES6)
-TypeScript
-Tailwind
-ReactJS
-NextJS (App Router & Page Router)
-Laravel 10 (Blade)
-WordPress
-Git
-Framer Motion
-GSAP
+- HTML
+- CSS
+- JavaScript (ES6)
+- TypeScript
+- Tailwind
+- ReactJS
+- NextJS (App Router & Page Router)
+- Laravel 10 (Blade)
+- WordPress
+- Framer Motion
+- GSAP
+- React-hook-form
+- Zod
+- Git
 
 # 🗺️ Roadmap
 
