@@ -38,11 +38,10 @@
 - JS Sintáxis y semántica de Lenguajes (UTN)
 - Paradigmas de la programación (UTN)
 - Framework Bootstrap (FreeCodeCamp)
-- Framework Angular (Argentina Programa 4.0)
-- Library Reactjs (The Garage)
+- Library React (The Garage)
 - TypeScript (The Garage)
-- Framework NextJS (The Garage)
-- Tailwind CSS with NextJS (The Garage)
+- NextJS App Router & Page Router (The Garage)
+- Tailwind (The Garage)
 
 # 🔗 Contact
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hoopneisser.github.io/)
