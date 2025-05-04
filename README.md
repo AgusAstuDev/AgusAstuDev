@@ -2,15 +2,15 @@
 # Systems Engineering Student | Frontend Developer
 
 # 🚀 About Me
-🙋‍♂️ ¡Buenas! Soy Agustin Ezequiel Astudillo.
+🙋‍♂️ ¡Buenas! Soy Agustín Ezequiel Astudillo.
 
-🏫 En 2018, inicié mi trayectoria académica en el campo de la Ingeniería Química. Después de dedicar tres años y medio a esta disciplina, tomé una decisión importante en mi vida: cambiar de carrera y seguir mi pasión por la Ingeniería en Sistemas de Información. Este cambio me permitió perseguir mis sueños y orientar mi futuro hacia una dirección que realmente me apasiona.
+🏫 Empecé mi camino profesional a mediados de 2021, cuando, después de estudiar unos años Ing. Química, decidí hacer lo que siempre quise: dedicarme a la tecnología.
 
-📚 A mediados de 2021, comencé a adentrarme en el campo de la programación, adquiriendo una sólida base en algoritmos, lógica y estructura de datos a través de las materias iniciales de mi carrera.
+📚 Mi gusto por la programación empezó a través de las materias introductorias de Ingeniería en Sistemas de Información, aprendiendo algoritmos, lógica y estructuras de datos.
 
-💡 En la actualidad, estoy cursando el tercer año de mi carrera universitaria mientras continúo expandiendo mis habilidades en el desarrollo web de manera autodidacta. Mi enfoque principal se centra en el Frontend, aunque cuento con conocimientos básicos en Backend. Mi crecimiento en esta área ha sido impulsado por mi rol como desarrollador web, donde he tenido la oportunidad de trabajar con diversas tecnologías. Algunas de las tecnologías con las que he trabajado incluyen NextJS, TypeScript, y Tailwind, aunque también he demostrado la capacidad de adaptarme a las necesidades de múltiples clientes, lo que me ha llevado a explorar una variedad de tecnologías adicionales.
+💡 Hoy en día curso el tercer año de la carrera y trabajo como desarrollador web. Ya he trabajado con tecnologías como Next.js (13/14), React, TypeScript, Tailwind CSS, WordPress con API REST, entre otras. También he participado en más de 20 proyectos reales, desde sitios institucionales hasta integraciones más complejas.
 
-👨‍💻 Me apasiona la tecnología, los desafíos y el aprendizaje constante. Mi objetivo principal es desarrollar un criterio de aprendizaje sólido y enfrentar retos que me desafíen y superen cada día, ya que considero que es en esos momentos cuando más crezco como profesional y como persona.
+🎨 Con el tiempo desarrollé un fuerte enfoque en UX/UI, priorizando claridad visual, accesibilidad y diseño responsive. Trabajo con Figma y Adobe XD para llevar esos diseños a interfaces sólidas y atractivas.
 
 
 # 🛠 Skills
