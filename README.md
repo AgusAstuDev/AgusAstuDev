@@ -1,5 +1,5 @@
 # Hola, soy Agustin Astudillo! 👋
-# Systems Engineering Student | Frontend Developer
+# Desarrollador web | Estudiante de Ing. en Sistemas
 
 # 🚀 About Me
 🙋‍♂️ ¡Buenas! Soy Agustín Ezequiel Astudillo.
