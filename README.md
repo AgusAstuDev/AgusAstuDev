@@ -1,7 +1,7 @@
 # Hola, soy Agustin Astudillo! 👋
 # Desarrollador web | Estudiante de Ing. en Sistemas
 
-# 🚀 About Me
+# 🚀 Sobre mí
 🙋‍♂️ ¡Buenas! Soy Agustín Ezequiel Astudillo.
 
 🏫 Empecé mi camino profesional a mediados de 2021, cuando, después de estudiar unos años Ing. Química, decidí hacer lo que siempre quise: dedicarme a la tecnología.
@@ -13,7 +13,7 @@
 🎨 Con el tiempo desarrollé un fuerte enfoque en UX/UI, priorizando claridad visual, accesibilidad y diseño responsive. Trabajo con Figma y Adobe XD para llevar esos diseños a interfaces sólidas y atractivas.
 
 
-# 🛠 Skills
+# 🛠 Habilidades
 
 - HTML
 - CSS
@@ -30,7 +30,7 @@
 - Zod
 - Git
 
-# 🗺️ Roadmap
+# 🗺️ Aprendizaje
 
 - Fundamentos de la programación (Telefónica)
 - Algoritmos y estructura de datos (UTN)
@@ -43,7 +43,7 @@
 - NextJS App Router & Page Router (The Garage)
 - Tailwind (The Garage)
 
-# 🔗 Contact
+# 🔗 Contacto
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hoopneisser.github.io/) (OLD)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-ezequiel-astudillo/)
